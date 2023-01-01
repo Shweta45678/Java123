@@ -10,6 +10,5 @@ cat("Substraction of vector is ",sub_vector, "\n")
 mul_vector= vector1 * vector2
 cat("Multiplication of vector is ",mul_vector, "\n")
 print("Division of two Vectors:")
-[1] "Division of two Vectors:"
 div_vector = vector1 / vector2
 print(div_vector)
